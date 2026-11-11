@@ -16,6 +16,19 @@ A premium digital solutions agency website.
 - Installed Tailwind CSS.
 - Configured development environment.
 
+### Day 2
+- Building navigation section.
+- Building hero section.
+- Building brand intro section.
+- Building services section.
+- Building solution section.
+- Building work section.
+- Building why us section.
+- Building about section.
+- Building approach section.
+- Building contact us section.
+- Building footer section.
+
 
 ## Developer
 
